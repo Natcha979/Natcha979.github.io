@@ -1,5 +1,4 @@
-##### Natcha979.github.io
-#### hi this is my website
+#### Natcha979.github.io
 ### i like to code
 ## i believe in the future
 # life is good
